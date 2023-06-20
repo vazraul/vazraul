@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Raul Alves
-- 👀 I’m interested in internship of data science
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate in a company as my first job
-- 📫 If you like my projects, send me a message
 
+- 👋 Ola, me chamo Raul Alves
+- 🌱 Atualmente estudo Ciência de dados
+- 💞️ Em uma relação séria com o aprendizado
+- 👀 Estou interessado em oportunidades de estágio
+- 📫 Se gostou dos meus projetos, envie me uma mensagem
+  
 <!---
 vazraul/vazraul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
