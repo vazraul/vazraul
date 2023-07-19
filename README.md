@@ -2,7 +2,7 @@
 - 👋 Ola, me chamo Raul Alves
 - 🌱 Atualmente estudo Ciência de dados
 - 💞️ Em uma relação séria com o aprendizado
-- 👀 Estou interessado em oportunidades de estágio
+- 👀 Estou interessado em oportunidades no mercado de trabalho
 - 📫 Se gostou dos meus projetos, envie me uma mensagem
 
 
