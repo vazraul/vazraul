@@ -5,8 +5,9 @@
 - 👀 Estou interessado em oportunidades no mercado de trabalho
 - 📫 Se gostou dos meus projetos, envie me uma mensagem
 
+no meu perfil estão fixados modelos que ja finalizei, porem tenho outros que pretendo desenvolver
 
-Aqui o ultimo modelo de classificação que fiz: https://github.com/vazraul/modelo_classi_diabetes
+
 <!---
 vazraul/vazraul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
